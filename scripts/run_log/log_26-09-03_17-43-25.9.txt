@@ -1,0 +1,14 @@
+2026-09-03 17:43:47,506 root INFO ******¿ªÊ¼Ö´ÐÐ2.py******
+2026-09-03 17:44:14,674 root ERROR Traceback (most recent call last):
+  File "C:\Users\Ìï¿µ\Downloads\rizhi\utils\dacarator.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Ìï¿µ\Downloads\rizhi\log_tool\log_layout.py", line 228, in _setup
+    self.check_env()
+  File "C:\Users\Ìï¿µ\Downloads\rizhi\log_tool\log_layout.py", line 1671, in check_env
+    self.adb = ADB()
+  File "C:\Users\Ìï¿µ\Downloads\rizhi\airtest\core\android\adb.py", line 42, in __init__
+    self.serialno = serialno or self.get_default_device()
+  File "C:\Users\Ìï¿µ\Downloads\rizhi\airtest\core\android\adb.py", line 61, in get_default_device
+    raise IndexError("ADB devices not found")
+IndexError: ADB devices not found
+

@@ -1,0 +1,38 @@
+2026-09-10 17:51:37,520 root INFO #try connect adb 。。。
+2026-09-10 17:51:37,914 root INFO #connect adb success 
+2026-09-10 17:51:37,915 root INFO 初始化结束
+2026-09-10 17:51:55,974 root INFO #try connect adb 。。。
+2026-09-10 17:51:56,339 root INFO #connect adb success 
+2026-09-10 17:51:56,339 root INFO 初始化结束
+2026-09-10 17:51:57,664 root INFO ******开始执行2.py******
+2026-09-10 17:52:43,156 root INFO 执行结束，耗时 45.49 秒
+2026-09-10 17:52:43,711 root INFO ******开始执行3.py******
+2026-09-10 17:52:43,724 root INFO 执行结束，耗时 0.01 秒
+2026-09-10 17:52:46,235 root INFO 初始化结束
+2026-09-10 17:52:47,670 root INFO scrcpy destroy 
+2026-09-10 17:52:49,327 root INFO 
+
+## loop :0
+2026-09-10 17:52:49,331 root INFO 
+
+文件是 4_升级并跳过协议.txt
+2026-09-10 17:52:49,349 root INFO @@行号:1 line: launch_times: 1
+2026-09-10 17:52:49,350 root INFO @@行号:2 line: display: 中控
+2026-09-10 17:52:49,351 root INFO scrcpy destroy 
+2026-09-10 17:52:50,683 root INFO @@行号:3 line: wait: 1
+2026-09-10 17:52:51,685 root INFO @@行号:4 line: #touch: 跳过升级后首页
+2026-09-10 17:52:51,686 root INFO @@行号:5 line: #wait: 1
+2026-09-10 17:52:51,687 root INFO @@行号:6 line: #touch: 同意协议
+2026-09-10 17:52:51,687 root INFO @@行号:7 line: #wait: 1
+2026-09-10 17:52:51,690 root INFO @@行号:8 line: #touch: 跳过升级后首页
+2026-09-10 17:52:51,691 root INFO @@行号:9 line: #touch: Home1
+2026-09-10 17:52:51,693 root INFO @@行号:10 line: check: 小鸡壁纸
+2026-09-10 17:52:51,708 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-10_17-52-49.3/4_升级并跳过协议/4_10.png 
+2026-09-10 17:52:52,216 root INFO 模版得分: 0.77
+2026-09-10 17:52:52,523 root INFO score1:0.98, score2:0.93
+2026-09-10 17:52:52,525 root INFO confidence:0.93
+2026-09-10 17:52:52,539 root INFO ##匹配成功  0.93 :D:/11/same/4_10#26-09-10_17-52-52.5.png
+2026-09-10 17:52:53,639 root INFO #try connect adb 。。。
+2026-09-10 17:52:54,045 root INFO #connect adb success 
+2026-09-10 17:52:54,048 root INFO adb cmd :shell am start -S -n com.autolink.engineermode/com.autolink.engineermode.MainActivity
+2026-09-10 17:53:03,205 root INFO adb cmd :shell input keyevent KEYCODE_HOME

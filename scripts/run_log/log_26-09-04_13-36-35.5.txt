@@ -1,0 +1,109 @@
+2026-09-04 13:36:45,058 airtest.core.android.adb INFO already connected to 10.70.14.125:5555
+
+2026-09-04 13:36:45,482 root INFO 初始化结束
+2026-09-04 13:37:03,355 root INFO 初始化结束
+2026-09-04 13:37:04,766 root INFO ******开始执行2.py******
+2026-09-04 13:37:50,115 root INFO 执行结束，耗时 45.35 秒
+2026-09-04 13:37:50,638 root INFO ******开始执行3.py******
+2026-09-04 13:37:50,650 root INFO 执行结束，耗时 0.01 秒
+2026-09-04 13:37:53,159 root INFO 初始化结束
+2026-09-04 13:37:54,719 root INFO scrcpy destroy 
+2026-09-04 13:37:56,307 root INFO 
+
+## loop :0
+2026-09-04 13:37:56,311 root INFO 
+
+文件是 80_车设热点设置.txt
+2026-09-04 13:37:56,322 root INFO @@行号:1 line: launch_times: 1
+2026-09-04 13:37:56,323 root INFO @@行号:2 line: display: 中控
+2026-09-04 13:37:56,324 root INFO scrcpy destroy 
+2026-09-04 13:37:57,765 root INFO @@行号:3 line: touch: Home1
+2026-09-04 13:37:57,776 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_3.png 
+2026-09-04 13:37:59,229 root INFO 模版得分: 1.0
+2026-09-04 13:37:59,238 root INFO score1:1.0, score2:1.0
+2026-09-04 13:37:59,239 root INFO confidence:1.0
+2026-09-04 13:37:59,242 root INFO ##匹配最好得分是1.0 下标是0 
+2026-09-04 13:37:59,242 root INFO confidence:1.0
+2026-09-04 13:37:59,247 root INFO ##对比图 :D:/11/same/80_3#26-09-04_13-37-59.2.png
+2026-09-04 13:37:59,249 root INFO #%% touch (71, 1378)  index_touch:0
+2026-09-04 13:38:00,152 root INFO @@行号:4 line: wait: 1
+2026-09-04 13:38:01,155 root INFO @@行号:5 line: touch: T1VDock车辆设置
+2026-09-04 13:38:01,169 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_5.png 
+2026-09-04 13:38:02,604 root INFO 模版得分: 1.0
+2026-09-04 13:38:02,608 root INFO score1:1.0, score2:1.0
+2026-09-04 13:38:02,610 root INFO confidence:1.0
+2026-09-04 13:38:02,612 root INFO ##匹配最好得分是1.0 下标是0 
+2026-09-04 13:38:02,613 root INFO confidence:1.0
+2026-09-04 13:38:02,615 root INFO ##对比图 :D:/11/same/80_5#26-09-04_13-38-02.6.png
+2026-09-04 13:38:02,617 root INFO #%% touch (1203, 1376)  index_touch:0
+2026-09-04 13:38:03,520 root INFO @@行号:6 line: wait: 1
+2026-09-04 13:38:04,522 root INFO @@行号:7 line: touch: T1V连接
+2026-09-04 13:38:04,537 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_7.png 
+2026-09-04 13:38:05,998 root INFO 模版得分: 0.65
+2026-09-04 13:38:06,007 root INFO score1:0.99, score2:0.62
+2026-09-04 13:38:06,008 root INFO confidence:0.62
+2026-09-04 13:38:06,009 root INFO ##匹配最好得分是0.62 下标是0 
+2026-09-04 13:38:06,010 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_7.png 
+2026-09-04 13:38:06,466 root INFO 模版得分: 0.65
+2026-09-04 13:38:06,477 root INFO score1:0.99, score2:0.62
+2026-09-04 13:38:06,478 root INFO confidence:0.62
+2026-09-04 13:38:06,479 root INFO ##匹配最好得分是0.62 下标是0 
+2026-09-04 13:38:06,480 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_7.png 
+2026-09-04 13:38:07,479 root INFO 模版得分: 0.65
+2026-09-04 13:38:07,490 root INFO score1:0.99, score2:0.62
+2026-09-04 13:38:07,491 root INFO confidence:0.62
+2026-09-04 13:38:07,492 root INFO ##匹配最好得分是0.62 下标是0 
+2026-09-04 13:38:07,493 root INFO confidence:0.62
+2026-09-04 13:38:07,498 root INFO ##对比图 :D:/11/same/80_7#26-09-04_13-38-07.5.png
+2026-09-04 13:38:07,499 root INFO #%% touch (213, 1067)  index_touch:0
+2026-09-04 13:38:08,403 root INFO @@行号:8 line: wait: 1
+2026-09-04 13:38:09,407 root INFO @@行号:9 line: check: T1V车设热点关闭
+2026-09-04 13:38:09,423 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_9.png 
+2026-09-04 13:38:09,887 root INFO 模版得分: 0.65
+2026-09-04 13:38:09,902 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:09,902 root INFO confidence:0.43
+2026-09-04 13:38:09,909 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-09.9.png
+2026-09-04 13:38:10,360 root INFO 模版得分: 0.65
+2026-09-04 13:38:10,371 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:10,373 root INFO confidence:0.43
+2026-09-04 13:38:10,378 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-10.4.png
+2026-09-04 13:38:10,424 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_9.png 
+2026-09-04 13:38:10,886 root INFO 模版得分: 0.65
+2026-09-04 13:38:10,896 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:10,897 root INFO confidence:0.43
+2026-09-04 13:38:10,902 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-10.9.png
+2026-09-04 13:38:11,349 root INFO 模版得分: 0.65
+2026-09-04 13:38:11,360 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:11,360 root INFO confidence:0.43
+2026-09-04 13:38:11,364 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-11.4.png
+2026-09-04 13:38:11,418 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_9.png 
+2026-09-04 13:38:11,910 root INFO 模版得分: 0.65
+2026-09-04 13:38:11,925 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:11,926 root INFO confidence:0.43
+2026-09-04 13:38:11,957 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-11.9.png
+2026-09-04 13:38:12,392 root INFO 模版得分: 0.65
+2026-09-04 13:38:12,402 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:12,403 root INFO confidence:0.43
+2026-09-04 13:38:12,408 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-12.4.png
+2026-09-04 13:38:12,421 root INFO # 截图2: C:\Users\田康\Downloads\rizhi/26-09-04_13-37-56.3/80_车设热点设置/80_9.png 
+2026-09-04 13:38:12,894 root INFO 模版得分: 0.65
+2026-09-04 13:38:12,906 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:12,907 root INFO confidence:0.43
+2026-09-04 13:38:12,914 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-12.9.png
+2026-09-04 13:38:13,370 root INFO 模版得分: 0.65
+2026-09-04 13:38:13,382 root INFO score1:0.99, score2:0.43
+2026-09-04 13:38:13,382 root INFO confidence:0.43
+2026-09-04 13:38:13,387 root INFO ##匹配失败 0.43 :D:/11/diff/80_9#26-09-04_13-38-13.4.png
+2026-09-04 13:38:13,433 root ERROR 执行失败 轮次:0 用例:80_车设热点设置.txt, 指令:check: T1V车设热点关闭, 信息:Traceback (most recent call last):
+  File "C:\Users\田康\Downloads\rizhi\press_android\press_android.py", line 691, in func_press_android_mode_func
+    press_test(ui_inst, script_file, conf=conf_data, spath=sfold)  # conf_data
+  File "C:\Users\田康\Downloads\rizhi\press_android\press_android.py", line 578, in press_test
+    excute_cmd(line, label_path, line_num)
+  File "C:\Users\田康\Downloads\rizhi\press_android\press_android.py", line 365, in excute_cmd
+    check_period(ui_inst, info_list, pic_info_dict, spath=spath, index=index_touch, score_vad=pic_vad,
+  File "C:\Users\田康\Downloads\rizhi\utils\pic_util.py", line 491, in check_period
+    raise Exception('多次图片匹配失败')
+Exception: 多次图片匹配失败
+
+2026-09-04 13:38:15,780 root INFO adb cmd :shell am start -S -n com.autolink.engineermode/com.autolink.engineermode.MainActivity
+2026-09-04 13:38:24,408 root INFO adb cmd :shell input keyevent KEYCODE_HOME

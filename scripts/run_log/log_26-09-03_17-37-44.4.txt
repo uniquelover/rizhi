@@ -1,0 +1,18 @@
+2026-09-03 17:37:59,614 root ERROR Traceback (most recent call last):
+  File "C:\Users\田康\Downloads\rizhi\utils\dacarator.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\田康\Downloads\rizhi\log_tool\log_layout.py", line 228, in _setup
+    self.check_env()
+  File "C:\Users\田康\Downloads\rizhi\log_tool\log_layout.py", line 1669, in check_env
+    raise RuntimeError("CLI 强制有线 adb，但没有找到 USB 设备")
+RuntimeError: CLI 强制有线 adb，但没有找到 USB 设备
+
+2026-09-03 17:37:59,623 root WARNING text :Traceback (most recent call last):
+  File "C:\Users\田康\Downloads\rizhi\utils\dacarator.py", line 207, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\田康\Downloads\rizhi\log_tool\log_layout.py", line 228, in _setup
+    self.check_env()
+  File "C:\Users\田康\Downloads\rizhi\log_tool\log_layout.py", line 1669, in check_env
+    raise RuntimeError("CLI 强制有线 adb，但没有找到 USB 设备")
+RuntimeError: CLI 强制有线 adb，但没有找到 USB 设备
+
